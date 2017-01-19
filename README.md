@@ -1,2 +1,6 @@
 # refactoring-workshop-java
-Java codebase for the refactoring workshop
+Step by step refactoring of a Java video store from M Fowler book "Refactoring: Improving the Design of Existing Code"
+
+## Commands
+
+- Build the project: `./gradlew build`
