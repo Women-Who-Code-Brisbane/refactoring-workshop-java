@@ -1,0 +1,12 @@
+Rental Record for Gregor Clegane
+	A Regular Movie 0	2.0
+	A Regular Movie 1	2.0
+	A Regular Movie 2	2.0
+	A Regular Movie 3	3.5
+	A Regular Movie 4	5.0
+	A Regular Movie 5	6.5
+	A Regular Movie 6	8.0
+	A Regular Movie 7	2.0
+	A Regular Movie 8	2.0
+Amount owed is 33.0
+You earned 9 frequent renter points

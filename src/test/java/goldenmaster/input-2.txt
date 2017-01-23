@@ -1,0 +1,9 @@
+Rental Record for Jon Snow
+	A Regular Movie 0	2.0
+	A Regular Movie 1	2.0
+	A Regular Movie 2	2.0
+	A Regular Movie 3	3.5
+	A Regular Movie 4	5.0
+	A Regular Movie 5	6.5
+Amount owed is 21.0
+You earned 6 frequent renter points

@@ -1,0 +1,6 @@
+Rental Record for Daenerys Targaryan
+	A Regular Movie 0	2.0
+	A Regular Movie 1	2.0
+	A Regular Movie 2	2.0
+Amount owed is 6.0
+You earned 3 frequent renter points
