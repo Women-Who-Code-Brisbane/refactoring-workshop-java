@@ -15,6 +15,15 @@ public class GoldenMasterCreate {
 			i++;
 		}
  	}
+	
+ 	@Test
+ 	public void goldenMasterCreateHtml() {
+		int i = 1;
+		for (Customer inputCustomer : goldenMasterInputs()) {
+			writeToGoldenMasterFile("input-"+i+".html", inputCustomer.htmlStatement());
+			i++;
+		}
+ 	}
 
  	/* 
   * Public methods

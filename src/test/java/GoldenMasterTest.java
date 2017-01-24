@@ -17,6 +17,16 @@ public class GoldenMasterTest {
 			i++;
  		}
  	}
+	
+ 	@Test
+ 	public void goldenMasterHtmlTest() {
+		int i = 1;
+		for (Customer inputCustomer : GoldenMasterCreate.goldenMasterInputs()) {
+ 			String expectedStatement = readFromGoldenMasterFile("input-"+i+".html");
+ 			assertThat(inputCustomer.htmlStatement(), is(expectedStatement));
+			i++;
+ 		}
+ 	}
 
  	/* 
   * Private methods
